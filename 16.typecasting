@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+float avgprofit;
+int mrppumpkin = 10;
+int sales = 40;
+int daysworked = 10;
+
+avgprofit = (mrppumpikin * sales) / daysworked;
+printf("Average daily profit = $%.2f", avgprofit);
+
+return(0);
+}
