@@ -4,8 +4,8 @@
 int main() {
 	
 	//This is single line
-	printf("Bucky is awesome \n");
-	printf("Bucky is cool \a");
+	printf("khush is awesome \n");
+	printf("khush is cool \a");
 	return 0;
 	
 }
