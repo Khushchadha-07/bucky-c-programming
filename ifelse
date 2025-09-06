@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+int age;
+
+printf(" what is your age? ");
+scanf("%d", &age);
+
+if(age>=21)
+{
+printf("you may enter the premises");
+}
+
+else
+{
+printf("please leave the premises");
+}
+
+return(0);
+}
