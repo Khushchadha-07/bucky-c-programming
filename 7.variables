@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	
+	int age;
+	int currentYear;
+	int birthYear;
+	
+	currentYear = 2025;
+	birthYear = 2007;
+	age = (currentYear - birthYear);
+	
+  printf("khush is %d years old \n", age);
+	
+	return 0;
+}
