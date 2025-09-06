@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	
+	//Array of character of length 14
+	char name[14] = "iron man";
+	printf("My name is %s \n", name);
+	
+	return 0;
+}
